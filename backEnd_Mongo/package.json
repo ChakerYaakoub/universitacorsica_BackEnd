@@ -1,0 +1,4 @@
+{"name":"back_end_netlify","version":"1.0.0","description":"Back end for netlify","main":"index.js","scripts":{"build":"netlify deploy --prod "},
+"dependencies":{"cors":"^2.8.5",
+"express":"^4.19.1","mongoose":"^8.2.3",
+"netlify-cli":"^17.20.0","netlify-lambda":"^2.0.16","serverless-http":"^3.2.0"}}
